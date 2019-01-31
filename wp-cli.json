@@ -2,7 +2,7 @@
   "homepage": "http://wp-cli.org/",
   "version": "1.1.0",
   "licence": "MIT",
-  "url": "https://github.com/wp-cli/wp-cli/releases/download/v1.1.0/wp-cli-1.1.0.phar",
+  "url": "https://raw.github.com/wp-cli/builds/gh-pages/phar/wp-cli.phar",
   "hash": "AC877071BD85E3FE0E0ADE5FEEF8B85A9A474737EAB7D5682F2E2987D8A76221",
   "extract_dir": "composer",
   "depends": [
